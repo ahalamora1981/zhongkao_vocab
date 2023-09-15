@@ -1,0 +1,1843 @@
+zhongkao_vocab = ''',英文,中文
+0,a/an,art. 一个
+1,ability,n. 能力
+2,about,prep. 关于
+3,above,"prep.超过,在上面,以上所述"
+4,abroad,n. 海外  adv. 往国外
+5,absent,v. 缺席 adj.缺席的
+6,accept,v. 接受
+7,accident,n. 事故
+8,according to,prep. 根据
+9,account*,n. 账户 v. 解释
+10,ache*,n. 疼痛
+11,achieve,"v.取得,获得,实现,成功"
+12,across,prep.穿过 adv.在对面
+13,act,"v. 行动,表现,起作用"
+14,action,n. 行动，活动
+15,active,adj. 积极的，主动的
+16,activity,n. 活动
+17,actor,n. 演员，男演员
+18,actress,n. 女演员
+19,actual,adj. 真实的，实际的
+20,actually*,adv. 事实上，的确
+21,add,v. 增加，添加
+22,address,"v. 称呼,提出  n.地址"
+23,admire,v. 钦佩，赞美，称赞
+24,adult,n. 成年人 adj. 成年的
+25,advantage,n. 优势，利益
+26,advertise,v. 为......做广告
+27,advertisement*,n. 广告
+28,advice,n. 建议，忠告
+29,advise,v. 建议，劝告
+30,amazing*,adj. 令人惊奇的
+31,America,n. 美国
+32,American,n. 美国人 adj. 美国的
+33,among,prep. 在…中间
+34,ancient,adj. 古老的，古代的
+35,and,conj. 和，而且
+36,angry,adj. 生气的
+37,animal,n. 动物
+38,another,det. 另一个+名词单数
+39,answer,n. 答案  v. 回答
+40,ant,n. 蚂蚁
+41,any,det. / pron. 任何一个
+42,anybody,"pron. 任何人, 平常人"
+43,anyone,"pron. 任何人, 某个人"
+44,anything,"pron. 任何事物,某事物"
+45,anyway,adv. 无论如何
+46,anywhere,"adv.任何地方,无论何处"
+47,apartment*,n. 公寓
+48,app*,n. 应用，应用程序
+49,application*,
+50,appear,v. 出现，显得，似乎
+51,apple,n. 苹果
+52,area,n. 地区
+53,argue,v. 争论，辩论
+54,arm,"n. 手臂 v. 武装, 备战"
+55,army,n. 军队
+56,around,prep. 围绕 adv. 四周
+57,arrive,v. 到达
+58,art,n. 艺术， 美术
+59,article,"n. 文章, 物品, 条款"
+60,badminton*,n. 羽毛球
+61,bag,n. 袋子，手提包
+62,balance,n. 平衡
+63,ball,n. 球
+64,balloon,n. 气球
+65,bamboo,n. 竹子
+66,banana,n. 香蕉
+67,band*,n. 乐队
+68,bank,n. 银行
+69,baseball,n. 棒球
+70,basic,adj. 基本的
+71,basket,n. 篮，筐，篓
+72,basketball,n. 篮球
+73,bat*,n. 球棒，蝙蝠
+74,bath*,n. 洗澡
+75,bathroom,n. 浴室，洗手间
+76,be,v. 存在，是
+77,be able to,v. 能 = can
+78,beach,n. 沙滩，海滩
+79,bean,n. 豆子
+80,bear,n. 熊   v. 承受，忍耐
+81,beat,v. 打败
+82,beautiful,adj. 美丽的
+83,because,conj. 因为
+84,become,v. 成为
+85,bed,n. 床
+86,bedroom,n. 卧室
+87,bee*,n. 蜜蜂
+88,beef,n. 牛肉
+89,before,prep./conj. 在...之前
+90,blouse,n. (女士)短上衣
+91,blow,v. 吹
+92,blue,n. 蓝色 adj. 蓝色的
+93,board,n. 木板
+94,boat,n. 小船
+95,body,n. 身体，躯干
+96,boil*,v. 煮，煮沸
+97,book,n. 书，书本
+98,bored,adj. 感到无聊的
+99,boring,adj. 令人感到无聊的
+100,born,v. 出生，形成
+101,borrow,v. 借
+102,boss,n. 老板
+103,both,det. / pron. 两个都
+104,bottle,n. 瓶子
+105,bottom,n. 底部
+106,bowl,n. 碗，盆，钵
+107,box,n. 盒子，箱子
+108,boy,n. 男孩
+109,brain,n. 大脑
+110,brave,adj. 勇敢的
+111,bread,n. 面包
+112,break,"v. 打破  n. 休息,暂停"
+113,breakfast,n. 早餐
+114,breath*,n. 呼吸
+115,breathe,v. 呼吸
+116,bridge,n. 桥
+117,bright,adj. 明亮的
+118,bring,v. 带来
+119,Britain,n. 英国
+120,candy,n. 糖果
+121,cap,n. 鸭舌帽，便帽
+122,capital,n. 首都，资本
+123,car,n. 小汽车
+124,card,n. 卡片
+125,care,v. 关心，关注
+126,careful,adj. 小心的，用心的
+127,careless,adj. 粗心的
+128,carrot,n. 胡萝卜
+129,carry,v. 携带
+130,cartoon,n. 动画片
+131,case*,n. 案件，示例
+132,cash*,n. 现金
+133,cat,n. 猫
+134,catch,v. 赶上，抓住
+135,cause,n. 原因  v. 造成
+136,celebrate,v. 庆祝
+137,cent,n. 美分
+138,central,adj. 中央的，中心的
+139,centre,n. 中心(AmE center)
+140,century,n. 世纪
+141,certain,adj.确定的 pron.某些
+142,certainly,adv. 确定地
+143,chair,n. 椅子
+144,chalk,n. 粉笔
+145,challenge,"n.挑战  v.挑战, 质疑"
+146,champion*,n. 冠军
+147,chance,n. 机会
+148,change,v./n. 改变
+149,character,"n. 角色,性格,特色,文字"
+150,clean,v. 清扫
+151,clear,v.清除adj.清楚明白的
+152,clever,adj. 聪明的
+153,click*,v. 点击
+154,climate*,n. 气候
+155,climb,v. 爬
+156,clock,n. 钟表
+157,close,v. 关闭
+158,clothes,n. 衣服
+159,cloud,n. 云
+160,cloudy,adj. 多云的
+161,club,n. 俱乐部
+162,coach,n. 教练，长途客车
+163,coal,n. 煤
+164,coast,n. 海岸线
+165,coat,n. 大衣
+166,coffee,n. 咖啡
+167,coin,n. 硬币
+168,cold,adj. 寒冷的
+169,collect,v. 收集
+170,college,n. 学院
+171,colour,n. 颜色
+172,come,v. 来
+173,comfortable,adj. 舒服的
+174,common,adj. 普通的，常见的
+175,communicate,v. 沟通，交流
+176,communication,n. 沟通，交流
+177,community,n. 社区，团体
+178,company,n. 公司，陪伴
+179,compare,v. 比较
+180,count,v. 数
+181,country,n. 国家
+182,countryside,n. 乡村
+183,couple,n. 夫妻
+184,courage,n. 勇气
+185,course,n. 课程，讲座
+186,cousin,n. 堂/表兄弟姐妹
+187,cover,v. 覆盖
+188,cow,n. 母牛，奶牛
+189,crayon,n. 蜡笔
+190,crazy,adj. 疯狂的
+191,create,v. 创造
+192,creative*,adj. 有创造力的
+193,criticize,v. 批评
+194,cross,v. 穿越；交叉
+195,crowd,n. 人群
+196,crowded*,adj. 拥挤的
+197,cry,v. 哭
+198,cucumber*,n. 黄瓜
+199,culture,n. 文化
+200,cup,n. 杯子，茶杯
+201,curious,adj. 好奇的
+202,customer,n. 顾客
+203,cut,v. 剪，切
+204,cute,adj. 可爱的
+205,dad,n. 爸爸
+206,daily,adj. 每天的
+207,dance,v. 跳舞
+208,danger,n. 危险
+209,dangerous,adj. 危险的
+210,different,adj. 不同的
+211,difficult,adj. 困难的
+212,difficulty,n. 困难
+213,dig,v. 挖
+214,digital*,adj. 数字的，数码的
+215,dining,n. 进餐(dine现在分词)
+216,dinner,n. 晚餐
+217,direct,v. 指导，引领，指挥
+218,direction,n. 方向，指示
+219,director,n. 导演，指挥家
+220,dirty,adj. 脏的
+221,disappoint,v. 使......失望
+222,disaster*,n. 灾难
+223,discover,v. 发现
+224,discovery,n. 发现
+225,discuss,v. 讨论
+226,discussion,n. 讨论
+227,disease*,n. 疾病
+228,dish,n. 碟，盘，一道菜
+229,divide,v. 分开
+230,do,v. 做
+231,doctor,n. 医生
+232,dog,n. 狗
+233,doll*,n. 洋娃娃
+234,dollar,n. 美元
+235,donate*,v. 捐赠
+236,door,n. 门
+237,double,adj. 双倍的
+238,doubt,v. 怀疑
+239,down,adv. 向下
+240,either,det./pron.(两者)任何一个
+241,elder,adj. 年长的
+242,electric*,adj. 用电的
+243,electronic,adj. 电子的
+244,elephant,n. 大象
+245,else,adv. 其他
+246,email,n. 电子邮件
+247,emergency*,n. 突发事件
+248,emotion,n. 情绪
+249,emperor*,n. 皇帝
+250,empress*,n. 女皇，皇后
+251,empty,adj. 空的
+252,encourage,v. 鼓励
+253,end,n. 终点，结局
+254,enemy,n. 敌人
+255,energetic*,adj. 精力充沛的
+256,energy,n. 能量
+257,engineer,n. 工程师
+258,England,n. 英格兰
+259,English,"n.英国人,英语 adj.英国的"
+260,enjoy,v. 享受
+261,enough,adj. 足够的
+262,enter,v. 进入
+263,environment,n. 环境
+264,era*,n. 时代，纪元
+265,eraser,n. 橡皮
+266,especially,adv. 尤其，特别
+267,Europe,n. 欧洲
+268,European,n. 欧洲人 adj. 欧洲的
+269,even,adv. 甚至
+270,fact,n. 事实
+271,factory,n. 工厂
+272,fail,v. 失败
+273,fair,adj. 公平的，晴朗的
+274,fall,v. 降落  n. 秋天
+275,false*,adj. 错误的
+276,familiar*,adj. 熟悉的
+277,family,n. 家庭，家人
+278,famous,adj. 著名的
+279,fan,n. 粉丝；风扇
+280,fantastic,adj. 极好的
+281,far,adj. 远的  adv. 远
+282,farm,n. 农场
+283,farmer,n. 农民
+284,fashion*,n. 时尚
+285,fast,adj. 快的
+286,fat,adj. 胖的
+287,father,n. 父亲
+288,favourite,adj.最喜欢的(AmE favorite)
+289,fear,n./v. 害怕，恐惧
+290,feed,v. 喂养
+291,feel,v. 感觉
+292,feeling,n. 感觉
+293,festival,n. 节日
+294,fever,n. 发热，发烧
+295,few,adj./pron. 很少，几个
+296,field,n. 田地
+297,fight,v. 打架
+298,fill,v. 填满，装满
+299,film,n. 电影
+300,force,n. 力，武力  v. 强迫
+301,foreign,adj. 外国的
+302,forest,n. 森林
+303,forever*,adv. 永远
+304,forget,v. 忘记
+305,fork,n. 餐叉
+306,form,"v. 形成  n. 种类, 表格"
+307,forward*,adv. 向前地 v. 发送
+308,found*,v. find过去式 adj. 找到的
+309,fox*,n. 狐狸
+310,France,n. 法国
+311,free,adj. 自由的
+312,freeze*,v. 冰冻，冻结
+313,French,"n.法国人,法语 adj.法国的"
+314,fresh,adj. 新鲜的
+315,fridge,n. 冰箱
+316,friend,n. 朋友
+317,friendly,adj. 友好的
+318,friendship,n. 友谊
+319,frighten,v. 恐吓
+320,from,prep. 来自
+321,front*,adj. 前面的 n. 前面
+322,fruit,n. 水果
+323,full,adj. 满的
+324,fun,n. 乐趣
+325,funny,adj. 有趣的
+326,future,n. 未来
+327,game,n. 游戏
+328,garden,n. 花园
+329,gas*,n. 气体，天然气
+330,grandpa,n. 祖父，外祖父
+331,grandparent,n. 祖父母
+332,grandson,n. 孙子，外孙子
+333,grape,n. 葡萄
+334,grass,n. 草，青草
+335,great,adj. 非常好
+336,green,n. 绿色 adj. 绿色的
+337,greet,v. 问候
+338,grey,n. 灰色 adj. 灰色的
+339,ground,n. 地面
+340,group,n. 小组
+341,grow,v. 成长，发展
+342,guard,n. 卫兵  v. 守卫
+343,guess,v. 猜
+344,guest,n. 顾客
+345,guide,"n. 指南, 导游  v. 指引"
+346,guitar,n. 吉他
+347,gun,n. 枪
+348,gym*,n. 体育馆
+349,gymnasium*,
+350,habit,n. 习惯
+351,hair,n. 头发
+352,half,n. 一半 adj. 一半的
+353,hall,n. 门厅，大厅
+354,hamburger,n. 汉堡
+355,hand,n. 手
+356,handbag,n. 手提包
+357,handsome,adj. 帅气的
+358,hang,v. 悬挂
+359,happen,v. 发生
+360,hike*,v. /n. 远足
+361,hill,n. 小山，山丘
+362,him,pron. 他
+363,himself,pron. 他自己
+364,his,det. 他的/他的(物品)
+365,history,n. 历史
+366,hit,v. 撞击，打击
+367,hobby,n. 爱好
+368,hold,v. 拿着，掌握
+369,hole,n. 洞，孔
+370,holiday,n. 假日
+371,home,n. 家
+372,hometown,n. 家乡
+373,homework,n. 作业
+374,honest,adj. 诚实的
+375,honey*,n. 蜂蜜，亲爱的
+376,honour,n. 荣誉 v. 尊重
+377,hope,n. /v. 希望
+378,horse,n. 马
+379,hospital,n. 医院
+380,host*,"n.主人, 主办方 v.主持"
+381,hostess*,n. 女主人
+382,hot,adj. 热的
+383,hotel,n. 酒店，宾馆
+384,hour,n. 小时
+385,house,n. 房子
+386,housework,n. 家务
+387,how,adv. 怎样，如何
+388,however,adv. 无论怎样
+389,hug*,n. /v. 拥抱
+390,insect*,n. 昆虫
+391,inside,adv. 在里面，在内部
+392,insist,v. 坚持
+393,instead,adv. 代替，反而
+394,instruction,n. 说明，指示
+395,instrument,n. 乐器，设备
+396,interest,n. 兴趣  v. 使感兴趣
+397,interesting,adj. 令人感到有趣的
+398,international,adj. 国际的
+399,Internet,n. 因特网
+400,interrupt,v. 打断，插话
+401,interview,n. 面试
+402,into,prep. 到...里面
+403,introduce,v. 介绍
+404,introduction,n. 介绍
+405,invent,v. 发明
+406,invention,n. 发明
+407,invite,v. 邀请
+408,involve,v. 包括
+409,island,n. 小岛
+410,it,pron. 它
+411,its,det. 它的/它的(物品)
+412,itself,pron. 它自己
+413,jacket,n. 夹克衫
+414,Japan,n. 日本
+415,Japanese,"n.日本人,日语 adj.日本的"
+416,jeans*,n. 牛仔裤
+417,job,n. 工作
+418,jog*,v. 慢跑
+419,join,v. 加入
+420,lady,n. 女士
+421,lake,n. 湖
+422,lamp*,n. 台灯
+423,land,n. 陆地
+424,landscape*,n. 地标，景观
+425,language,n. 语言
+426,lantern*,n. 灯笼
+427,laptop*,n. 笔记本电脑
+428,large,adj. 巨大的
+429,last,"adj./adv. 最后的, 最终的"
+430,late,adj. 后来的，迟到的
+431,later,adv. 后来  adj. 后来的
+432,laugh,v. 大笑，嘲笑
+433,law,n. 法律
+434,lawyer*,n. 律师
+435,lay,v. 放置，铺放
+436,lazy,adj. 懒惰的
+437,lead,v. 领导
+438,leader,n. 领导人
+439,leaf,n. 树叶
+440,learn,v. 学习
+441,least,adj. 最少的(little最高级)
+442,leave,v. 离开
+443,left,adj.左边的 v.leave过去式
+444,leg,n. 腿，大腿
+445,lemon,n. 柠檬
+446,lend,v. 借出
+447,less,adj.更少(llittle比较级)
+448,lesson,n. 课，课程
+449,let,v. 允许
+450,loud,adj. 大声的
+451,love,v. 爱
+452,lovely,adj. 可爱的
+453,low,adj. 低的
+454,luck,n. 幸运
+455,lucky,adj. 幸运的
+456,lunch,n. 午餐
+457,machine,n. 机器
+458,mad,adj. 疯狂的
+459,madam*,n. 女士
+460,magazine,n. 杂志
+461,magic,adj. 有魔力的
+462,mail,n. 邮件
+463,main,adj. 主要的
+464,make,v. 做
+465,mall*,n. 商场，购物中心
+466,man,n. 男人，人
+467,manage,v. 管理
+468,manager,n. 经理
+469,manner,n. 方式，行为举止
+470,many,det./pron./adj. 许多
+471,map,n. 地图
+472,mark,v. 标记  n. 记号
+473,market,n. 市场
+474,marry,v. 结婚
+475,master,"n.主人,精通者 v.精通"
+476,match,v. 匹配
+477,material,n. 材料  adj. 物质的
+478,mathematics*,n. 数学
+479,maths,
+480,Miss,n. 小姐，女士
+481,miss,v. 错过，思念
+482,missing,v.miss现在分词adj.丢失的
+483,mistake,n. 错误
+484,mix,v. 混合
+485,mobile phone,n. 手机
+486,model,n. 模型，模范，模特
+487,modern,adj. 现代的，当代的
+488,moment,n. 片刻，瞬间
+489,money,n. 钱
+490,monkey,n. 猴子
+491,month,n. 月，月份
+492,moon,n. 月亮
+493,more,adj.更多(many/much比较级)
+494,morning,n. 早上
+495,most,adj.最多(many/much最高级)
+496,mother,n. 妈妈
+497,mountain,n. 山，山脉
+498,mouse,n. 老鼠 (pl. mice)
+499,mouth,n. 嘴
+500,move,v. 移动
+501,movie,n. 电影
+502,Mr,abbr. 先生
+503,Mrs,abbr. 太太
+504,Ms,abbr. 小姐，女士
+505,much,det. /pron. 许多
+506,museum,n. 博物馆
+507,music,n. 音乐
+508,musician,n. 音乐家
+509,must,modal 必须
+510,none,pron. 什么也没有
+511,noodle,n. 面条
+512,noon,n. 正午，中午
+513,nor,conj./adv. 也不
+514,normal,adj. 正常的
+515,north,n. 北方
+516,northern,adj. 北方的
+517,nose,n. 鼻子
+518,not,adv. 不，没有
+519,note,n. 笔记，便条
+520,notebook,n. 笔记本
+521,nothing,pron. 没有什么东西
+522,notice,v. 注意到 n. 通告
+523,novel*,n. 小说 adj. 新颖的
+524,now,adv. 现在，目前
+525,number,n. 数字
+526,nurse,n. 护士
+527,object,n. 物品，目标
+528,obvious,adj. 显而易见的
+529,ocean*,n. 大海，海洋
+530,o'clock,......点钟
+531,of,prep. 的
+532,off,adv. 离开  adj. 落下
+533,offer,v. 主动提供
+534,office,n. 办公室
+535,officer*,n. 官员
+536,often,adv. 经常
+537,oil,n. 油
+538,OK,int. 好的
+539,old,adj. 老的
+540,pain,n. 伤痛
+541,paint,n. 油漆
+542,pair,n. 一对  v. 配对
+543,palace,n. 宫殿
+544,pale,adj. 苍白的
+545,pancake,n. 薄饼，烙饼
+546,panda,n. 熊猫
+547,paper,n. 纸
+548,paragraph,n. 段落
+549,pardon,v. 再说一遍，原谅
+550,parent,n. 父母
+551,park,n. 公园
+552,part,n. 部分
+553,partner,n. 搭档，同伴
+554,party,n. 派对
+555,pass,v. 经过，通过
+556,passage,n. 文章
+557,passenger,n. 乘客
+558,passport,n. 护照
+559,past,adj. 过去的
+560,patient,n. 病人 adj. 有耐心的
+561,pay,v. 支付
+562,PE,n. 体育，体育课
+563,peace,n. 和平
+564,pear,n. 梨
+565,pen,n. 钢笔
+566,pencil,n. 铅笔
+567,penguin*,n. 企鹅
+568,people,n. 人们
+569,pepper*,n. 胡椒粉
+570,planet,n. 星球
+571,plant,n. 植物  v. 种植
+572,plastic*,adj. 塑料的
+573,plate*,n. 盘子，碟子
+574,play,v. 玩，玩耍
+575,player,n. 运动员
+576,playground,n. 操场
+577,pleasant,adj. 高兴的，愉悦的
+578,please,v. 请，让人心情愉悦
+579,pleasure,n. 高兴，愉快
+580,plenty,pron. 许多，大量
+581,pocket,n. 口袋
+582,poem,n. 诗，诗歌
+583,poet*,n. 诗人
+584,point,v. 指，指出 n. 点
+585,police,n. 警察
+586,policeman,n. 警察，男警察
+587,policewoman,n. 女警察
+588,polite,adj. 礼貌的
+589,pollute,v. 污染
+590,pollution,n. 污染
+591,pool,n. 池塘
+592,poor,adj. 贫穷的
+593,popular,adj. 受欢迎的
+594,population,n. 人口
+595,pork*,n. 猪肉
+596,porridge*,n. 麦片粥，粥
+597,position*,n. 位置
+598,positive*,adj. 积极的
+599,possible,adj. 可能的
+600,produce,v. 生产
+601,product,n. 产品
+602,programme,"n. 方案, 节目  v. 计划"
+603,progress,n. 进步  v. 改进
+604,project,n. 项目  v. 规划
+605,promise,n. /v. 保证
+606,pronounce,v. 发音
+607,pronunciation,n. 发音
+608,proper,adj. 合适的，恰当的
+609,protect,v. 保护
+610,proud,adj. 骄傲自豪的
+611,prove,v. 证明
+612,provide,v. 提供
+613,public,adj. 公共的
+614,publish*,v. 出版，发行，发布
+615,pull,v. 拉
+616,punish,v. 惩罚
+617,pupil,n. 小学生
+618,purple,n. 紫色
+619,purpose,n. 目的
+620,push,v. 推
+621,put,v. 放置
+622,quality*,n. 质量 adj. 优质的
+623,quarter,n. 四分之一，一刻钟
+624,queen,n. 女王
+625,question,n. 问题
+626,quick,adj. 快的
+627,quiet,adj. 安静的
+628,quite,adv. 相当
+629,rabbit,n. 兔子
+630,relationship,n. 关系
+631,relative,n. 亲戚 adj. 相关的
+632,relax,v. 放松
+633,remain,v. 保持，仍然是
+634,remember,v. 记住
+635,remind,v. 提醒
+636,repair,v. 修复
+637,repeat,v. 重复
+638,reply,n. /v. 回复
+639,report,n. /v. 报告
+640,require,v. 需要
+641,research,n. /v. 研究
+642,respect,v. 尊敬
+643,responsible,adj. 负责任的
+644,rest,v. 休息 adj. 其余的
+645,restaurant,n. 饭店
+646,result,n. 结果
+647,return,v. 返回
+648,review,"n./v. 复习, 回顾, 检查"
+649,rice,n. 米饭
+650,rich,adj. 富有的，丰富的
+651,ride,v. 骑
+652,right,adj. 正确的，右边的
+653,ring,"v. 响 n. 铃声, 戒指"
+654,rise,v. 上升
+655,risk,n. 风险，冒险
+656,river,n. 河流
+657,road,n. 路
+658,robot,n. 机器人
+659,rock,n. 岩石
+660,schoolbag,n. 书包
+661,science,n. 科学
+662,scientist,n. 科学家
+663,scissors,n. 剪刀
+664,score,"n. 分数, 比分  v. 得分"
+665,screen,n. 屏幕
+666,sea,n. 大海
+667,search,v. 搜索，搜查
+668,season,n. 季节
+669,seat,n. 座位
+670,second,ord. 第二
+671,secret,n. 秘密  adj. 秘密的
+672,secretary,n. 秘书
+673,see,v. 看
+674,seem,"v. 好像, 似乎, 看起来"
+675,seldom,adv. 很少
+676,sell,v. 卖
+677,send,v. 发送
+678,sense,n. 感觉  v. 感觉到
+679,sentence,n. 句子
+680,separate,v.(使)分开 adj.分开的
+681,serious,adj. 严肃的
+682,serve,v. 服务
+683,service,n. 服务
+684,set,v. 设置 n. (一)套
+685,several,det. 几个 adj. 几个的
+686,shake,v. 摇动，抖动
+687,shall,modal 应该
+688,shame,n. 羞耻
+689,shape,n. 形状，外形
+690,similar,adj. 相似的
+691,simple,adj. 简单的
+692,since,conj. /prep. 自从
+693,sing,v. 唱
+694,single,adj. 单一的
+695,sir,n. 先生
+696,sister,n. 姐姐，妹妹
+697,sit,v. 坐
+698,situation,n. 情况，现状
+699,size,n. 型号，尺码，大小
+700,skate,v. 滑冰
+701,ski*,v. 滑雪
+702,skill,n. 技能
+703,skirt,n. 裙子
+704,sky,n. 天空
+705,sleep,v. 睡觉
+706,sleepy,adj. 困的，睡着的
+707,slim*,adj. 苗条的
+708,slow,adj. 缓慢的
+709,small,adj. 小的
+710,smart,adj. 聪明的，敏捷的
+711,smell,v. 闻，闻起来
+712,smile,v. 微笑
+713,smoke,v. 吸烟  n. 烟
+714,smooth,adj. 平坦的，光滑的
+715,snack*,n. 零食
+716,snake,n. 蛇
+717,snow,n. 雪 v. 下雪
+718,snowy,adj. 下雪的
+719,so,conj. 所以
+720,speed,n. 速度
+721,spell,v. 拼写
+722,spend,v. 花费
+723,spirit,n. 精神
+724,spoon,n. 勺子
+725,sport,n. 运动
+726,spread,v. 扩散，传播
+727,spring,n. 春天；弹簧
+728,square,n. 正方形；广场
+729,stage*,n. 阶段，状态
+730,stairs,n. 楼梯
+731,stamp,n. 邮票
+732,stand,v. 站立
+733,standard,n. 标准
+734,star,n. 星星，恒星
+735,start,v. 开始
+736,state,v. 陈述  n. 州；状态
+737,station,n. 车站
+738,stay,v. 停留；保持
+739,steal,v. 偷
+740,step,n. 步，步伐
+741,stick,"v. 刺,戳,粘贴  n. 木棍"
+742,still,adv. 仍然
+743,stomach,n. 胃
+744,stomachache,n. 胃痛
+745,stone,n. 石头
+746,stop,v. 停止 n. 车站
+747,store,n. 商店
+748,storm,n. 暴风雪，风暴
+749,story,n. 故事
+750,suppose,v. 推断，认为
+751,sure,adj. 确定的
+752,surface,n. 表面
+753,surprise,n. 惊喜
+754,survey,n. /v. 调查
+755,survive*,v. 幸存，继续存在
+756,sweater,n. 毛衣
+757,sweep*,v. 打扫，清扫
+758,sweet,adj. 甜的
+759,swim,v. 游泳
+760,swimming,v. swim现在分词
+761,symbol*,n. 象征，符号
+762,system,n. 系统
+763,table,n. 桌子
+764,tail,n. 尾巴
+765,take,v. 带走
+766,talent,n. 天才，有才能的人
+767,talk,v. 说话，聊天
+768,tall,adj. 高的
+769,tap*,n. 水龙头 v. 轻拍
+770,tape,n. 录音带
+771,task,n. 任务
+772,taste,"v.品尝,尝起来 n.味道"
+773,taxi,n. 出租车
+774,tea,n. 茶
+775,teach,v. 教
+776,teacher,n. 教师
+777,team,n. 团队
+778,teamwork*,n. 团队合作
+779,technology,n. 科技
+780,think,v. 思考
+781,thirsty,adj. 口渴的
+782,this,det. /pron. 这个
+783,those,det. /pron. 那些
+784,though,"adv. /conj. 虽然, 尽管"
+785,thought,v.think过去式 n.想法
+786,throat*,n. 喉咙
+787,through,prep. 穿过
+788,throw,v. 扔，投，掷
+789,thunder*,v. 打雷 n. 雷声
+790,ticket,n. 票
+791,tidy,v. 整理  adj. 整洁的
+792,tie,v. 系 n. 领带
+793,tiger,n. 老虎
+794,time,n. 时间
+795,tiny,adj. 渺小的
+796,tired,adj. 感到疲惫的
+797,title,n. 文章标题，名称
+798,to,prep. 向，朝
+799,today,n. /adv. 今天，当今
+800,tofu*,n. 豆腐
+801,together,adv. 一起
+802,toilet,n. 洗手间
+803,tomato,n. 西红柿
+804,tomorrow,n. /adv. 明天，未来
+805,ton,n. 吨
+806,tonight,n. 今晚 adv. 在今晚
+807,too,adv. 也
+808,tool,n. 工具
+809,tooth,n. 牙齿
+810,T-shirt,n. T恤衫
+811,turn,v. 朝...转，变得
+812,TV,n. 电视
+813,twice,adv. 两次
+814,typical,adj. 典型的
+815,ugly,adj. 丑陋的
+816,UK,n. 英国
+817,umbrella,n. 雨伞
+818,uncle,n. 叔叔
+819,under,prep. 在...下面
+820,underground,n. 地铁
+821,underline,v. 强调，在...下画线
+822,understand,v. 理解，明白
+823,uniform*,n. 校服
+824,unit,n. 单元
+825,universe*,n. 宇宙
+826,university,n. 大学
+827,unless,conj. 除非
+828,until,conj. /prep. 到...为止
+829,up,prep. /adv. 向上
+830,upon,prep. 在...上
+831,upset,adj.沮丧的 v.使烦恼
+832,us,pron. 我们
+833,US,n. 美国
+834,use,v. 使用
+835,used,v.use过去式 adj.用过的
+836,useful,adj. 有用的
+837,usual,adj. 通常的
+838,usually,adv. 通常
+839,vacation,n. 假期
+840,water,n. 水
+841,watermelon,n. 西瓜
+842,wave*,n. 波动 v. 挥手
+843,way,n. 方式，方法
+844,we,pron. 我们
+845,weak,adj. 虚弱的
+846,wealth,n. 财富
+847,wear,v. 穿
+848,weather,n. 天气
+849,website,n. 网站
+850,week,n. 星期
+851,weekday,n. 工作日
+852,weekend,n. 周末
+853,weigh,"v. 称重, ...的重量是"
+854,weight,n. 重量
+855,welcome,v. 欢迎
+856,well,adv. 好
+857,west,n. 西方，西部
+858,western,adj. 西方的
+859,wet,adj. 潮湿的
+860,whale*,n. 鲸鱼
+861,what,det. /pron. 什么
+862,whatever,det. /pron. 无论什么
+863,wheel,n. 轮子，车轮
+864,when,adv. /pron. 什么时候
+865,whenever,adv. /pron. 无论何时
+866,where,adv. /pron. 哪里
+867,whether,conj. 是否
+868,which,det. /pron. 哪一个
+869,while,conj. 在...期间
+870,world,n. 世界
+871,worry,v. 担心
+872,worse,adj.更糟糕(bad比较级)
+873,worst,adj.最糟糕(bad最高级)
+874,worth,adj. 有...价值
+875,would,modal 将要，将会
+876,wound,n. 伤口
+877,write,v. 写
+878,writer,n. 作家
+879,wrong,adj. 错误的
+880,X-ray,n. X光，X射线
+881,yard,n. 院子
+882,year,n. 年
+883,yellow,n. 黄色 adj. 黄色的
+884,yes,int. 是的
+885,yesterday,n. 昨天 adv. 在昨天
+886,yet,adv. 还没有
+887,yogurt*,n. 酸奶
+888,you,pron. 你
+889,young,adj. 年轻的
+890,your,det. 你的
+891,yours,pron. 你的(物品)
+892,yourself,pron. 你自己
+893,youth*,n. 青年，青春
+894,zoo,n. 动物园
+895,zero,num. 0
+896,one,num. 1
+897,two,num. 2
+898,three,num. 3
+899,four,num. 4
+900,April,n. 四月
+901,May,n. 五月
+902,June,n. 六月
+903,July,n. 七月
+904,August,n. 八月
+905,September,n. 九月
+906,October,n. 十月
+907,November,n. 十一月
+908,December,n. 十二月
+909,Monday,n. 星期一
+910,Tuesday,n. 星期二
+911,Wednesday,n. 星期三
+912,Thursday,n. 星期四
+913,Friday,n. 星期五
+914,Saturday,n. 星期六
+915,Sunday,n. 星期日
+916,third*,ord. 第3
+917,fourth*,ord. 第4
+918,fifth*,ord. 第5
+919,sixth*,ord. 第6
+920,seventh*,ord. 第7
+921,eighth*,ord. 第8
+922,ninth*,ord. 第9
+923,tenth*,ord. 第10
+924,eleventh*,ord. 第11
+925,twelfth*,ord. 第12
+926,thirteenth*,ord. 第13
+927,fourteenth*,ord. 第14
+928,fifteenth*,ord. 第15
+929,sixteenth*,ord. 第16
+930,afford,v. 买得起，提供
+931,afraid,adj. 害怕的，担心的
+932,Africa,n. 非洲
+933,African,n.非洲人 adj.非洲的
+934,after,"prep. 在…之后, 后来"
+935,afternoon,n. 下午
+936,again,adv. 再一次
+937,against,prep. 反对，违反
+938,age,n. 年龄，时代
+939,ago,adv. 以前
+940,agree,v. 同意
+941,agreement,n. 同意
+942,ahead*,adv. 向前地，提前
+943,aid*,n. /v. 帮助，援助
+944,aim*,n. 目标 v. 目的是
+945,air,n. 空气，大气，广播
+946,airport,n. 机场
+947,alarm*,n. 闹钟
+948,alive,adj. 活着的，活泼的
+949,all,pron. /det. 所有的
+950,allow,v. 允许
+951,almost,adv. 几乎，差不多
+952,alone,adj. /adv. 独自
+953,along,prep. 沿着 adv. 一起
+954,aloud,adv. 大声地
+955,already,adv. 已经
+956,also,adv. 也
+957,although,conj. 尽管，虽然
+958,always,adv. 总是
+959,a.m.*,n. 上午
+960,artificial intelligence*,AI，人工智能
+961,artist,n. 艺术家，美术家
+962,as,prep. 如同 conj. 当
+963,Asia,n. 亚洲
+964,Asian,n. 亚洲人 adj. 亚洲的
+965,ask,v. 询问
+966,asleep,adj. 睡着的
+967,astronaut*,n. 宇航员
+968,at,prep. 在...
+969,athlete*,n. 运动员
+970,attack*,v. 攻击
+971,attend,v. 参加
+972,attention,"n. 注意力, 关心, 立正"
+973,attitude,n. 态度
+974,attract,v. 吸引，引起
+975,aunt,n. 姑姑，婶婶
+976,Australia,n. 澳大利亚
+977,Australian,n.澳大利亚人 adj.澳大利亚的
+978,autumn,n. 秋天
+979,average*,adj. 平均的，普通的
+980,avoid,v. 避免
+981,awake,adj. 醒着的 v. 唤醒
+982,award*,n. 奖 v. 奖励
+983,aware*,adj. 意识到的
+984,away,"adv. 离去, 在远处"
+985,awful,"adj. 可怕的,极坏的,非常的"
+986,baby,n. 婴儿，宝贝
+987,back,adj./adv.后面n.后背v.支持
+988,background,n. 背景
+989,bad,adj. 坏的，糟糕的
+990,begin,v. 开始
+991,behave,v. 表现
+992,behind,prep.在...之后adv.在后面
+993,believe,v. 相信
+994,bell,n. 钟(声)，铃(声)
+995,belong,v. 属于，应在(某处)
+996,below,prep. 在......下面
+997,belt*,"n. 腰带, 皮带, 传送带"
+998,benefit,n. 利益 v. 获益
+999,beside,prep. 在......旁边
+1000,best,adj. 最棒的
+1001,better,adj. 更好的
+1002,between,prep. 在...和...之间
+1003,beyond,prep. 在...外面
+1004,big,adj. 大的
+1005,bike=bicycle,n. 自行车
+1006,bill,n. 账单，法案
+1007,bin*,n. 箱子，垃圾箱
+1008,biology*,n. 生物
+1009,bird,n. 鸟，鸟类
+1010,birth,n. 出生，起源
+1011,birthday,n. 生日
+1012,biscuit,n. 饼干
+1013,bit,n.稍微 v. bite过去式
+1014,black,n. 黑色  adj. 黑色的
+1015,blackboard,n. 黑板
+1016,bleed*,v. 流血
+1017,blind,adj. 失明的
+1018,block,v. 阻止 n. 街区
+1019,blood,n. 血液，血统
+1020,British,n. 英国人 adj. 英国的
+1021,brother,n. 兄弟，哥哥，弟弟
+1022,brown,n. 棕色  adj. 棕色的
+1023,brush,v. 刷  n. 刷子
+1024,budget*,n. 预算
+1025,build,v. 建造
+1026,building,n. 建筑物
+1027,bully*,v.欺凌 n.仗势欺人的人
+1028,burn,v. 燃烧
+1029,bus,n. 公交车
+1030,business,n. 商业，生意
+1031,busy,adj. 忙碌的
+1032,but,conj. 但是
+1033,butter*,n. 黄油，奶油
+1034,butterfly*,n. 蝴蝶
+1035,buy,v. 买
+1036,by,"prep. 靠近, 用(某种)方法"
+1037,cabbage*,n. 卷心菜
+1038,cake,n. 蛋糕
+1039,calendar,n. 日历
+1040,call,v. 称呼，打电话
+1041,calm*,adj. 冷静的
+1042,camera,n. 相机
+1043,camp,n. 营地  v. 露营
+1044,can,modal 能够，可能
+1045,Canada,n. 加拿大
+1046,Canadian,n.加拿大人 adj.加拿大的
+1047,cancel,v. 取消
+1048,cancer*,n. 癌症
+1049,candle,n. 蜡烛
+1050,characteristic*,n. 特征，品质
+1051,charity*,n. 慈善，宽容
+1052,chat*,n. /v. 闲聊
+1053,cheap,adj. 便宜的
+1054,cheat,v. 欺骗
+1055,check,v. 检查
+1056,cheer,v. 欢呼
+1057,cheese*,n. 奶酪
+1058,chemistry,n. 化学
+1059,chess,n. 国际象棋
+1060,chicken,n. 鸡，鸡肉
+1061,child,n. 儿童，小孩
+1062,children,n. 儿童（复数）
+1063,China,n. 中国
+1064,Chinese,"n.中国人,汉语 adj.中国的"
+1065,chip*,n. 炸薯条
+1066,chocolate,n. 巧克力
+1067,choice,n. 选项
+1068,choose,v. 选择
+1069,chopsticks,n. 筷子
+1070,chore*,n. 例行工作
+1071,Christmas,n. 圣诞节
+1072,cinema,n. 电影院
+1073,circle,"n. 圆形  v. 盘旋, 环绕"
+1074,citizen*,n. 市民，公民
+1075,city,n. 城市
+1076,class,n. 班级，等级
+1077,classic*,adj. 经典的
+1078,classmate,n. 同学
+1079,classroom,n. 教室
+1080,compete*,v. 竞争，对抗
+1081,competition,n. 竞争，比赛
+1082,complain,v. 抱怨
+1083,complete,v. 完成
+1084,computer,n. 电脑
+1085,concert,n. 音乐会，演唱会
+1086,condition,n. 状态，条件，处境
+1087,confidence*,n. 自信
+1088,confident,adj. 自信的
+1089,confuse,v. 混淆
+1090,congratulate,v. 祝贺
+1091,congratulation*,n. 庆祝，祝贺
+1092,connect,v. 连接
+1093,consider,v. 仔细考虑，以为
+1094,continue,v. 继续
+1095,control,v. 控制
+1096,convenient,adj. 方便的，便利的
+1097,conversation,n. 谈话
+1098,cook,v. 做饭  n. 厨师
+1099,cookie,n. 曲奇饼干
+1100,cool,adj. 凉爽的
+1101,cooperate*,v. 合作
+1102,copy,v. 复制
+1103,corn,n. 谷物，谷粒
+1104,corner,n. 角落
+1105,correct,v. 改正  adj. 正确的
+1106,cost,v. 花费 n. 费用
+1107,cotton*,n. 棉，棉布
+1108,cough,n. /v. 咳嗽
+1109,could,modal 能够，可能
+1110,dark,n. 黑暗  adj. 黑暗的
+1111,date,n. 日期
+1112,daughter,n. 女儿
+1113,day,n. 一天，白天
+1114,dead,adj. 死去的
+1115,deaf,adj. 聋的
+1116,deal,"v. 经营, 买卖  n. 交易"
+1117,dear,adj. 亲爱的
+1118,death*,n. 死亡
+1119,decide,v. 决定
+1120,decision,n. 决定
+1121,deep,adj. 深的
+1122,degree,n. 度数，级别
+1123,delicious,adj. 美味的
+1124,deliver,v. 传递，发布
+1125,dentist*,n. 牙医
+1126,depend,v. 取决于
+1127,describe,v. 描述
+1128,desert*,n. 沙漠
+1129,design,n./v. 设计
+1130,desk,n. 桌子，书桌
+1131,destroy,v. 破坏
+1132,develop,v. 发展，提高
+1133,development,n. 发展
+1134,dialogue,n. 对话(AmE dialog)
+1135,diary,n. 日记
+1136,dictionary,n. 字典
+1137,die,v. 死
+1138,diet*,n. 日常饮食 v. 节食
+1139,difference,n. 不同点
+1140,download*,v. 下载
+1141,dragon*,n. 龙
+1142,drama*,n. 戏剧，戏剧性事件
+1143,draw,v. 画
+1144,dream,n. 梦，梦想
+1145,dress,n. 连衣裙
+1146,drink,v. 喝
+1147,drive,v. 开车，驱使
+1148,driver,n. 司机
+1149,drop,v. 掉落
+1150,dry,adj. 干燥的
+1151,duck,n. 鸭子
+1152,dumpling,n. 饺子
+1153,during,prep. 在...期间
+1154,duty*,n. 职责，责任，值班
+1155,each,"det. /pron. 各自, 每个"
+1156,eager,adj. 渴望的
+1157,eagle*,n. 鹰
+1158,ear,n. 耳朵
+1159,early,adv. 早早地
+1160,earth*,n. 地球
+1161,earthquake,n. 地震
+1162,east,n. 东部，东方
+1163,eastern,adj. 东方的
+1164,easy,adj. 容易的
+1165,eat,v. 吃
+1166,education,n. 教育
+1167,effect,n. 影响
+1168,effort,n. 努力
+1169,egg,n. 鸡蛋
+1170,evening,n. 晚上
+1171,event,n. 事件，公开活动
+1172,ever,"adv. 从来, 任何时候"
+1173,every,det.每一个adj.所有的
+1174,everybody,pron. 每个人
+1175,everyday,adj. 每天的，日常的
+1176,everyone,pron. 每个人
+1177,everything,pron. 每件事
+1178,everywhere,pron./adv. 到处
+1179,exactly,adv. 精确地
+1180,exam,n. 考试
+1181,examination,n. 考试
+1182,examine,v. 检验
+1183,example,n. 例子
+1184,excellent,adj. 杰出的
+1185,except,prep. 除了
+1186,excited,adj. 兴奋的
+1187,exciting,adj. 令人兴奋的
+1188,excuse,n. 借口
+1189,exercise,v. 练习，锻炼
+1190,expect,v. 期望，预计
+1191,expensive,adj. 昂贵的
+1192,experience,n. 经验，经历
+1193,experiment,n./v. (做)实验，实践
+1194,expert*,n. 专家 adj. 熟练的
+1195,explain,v. 解释
+1196,explore*,v. 探索
+1197,express,v. 表达
+1198,eye,n. 眼睛
+1199,face,n. 脸，面部
+1200,final*,adj. 最终的
+1201,finally,adv. 最终地
+1202,find,v. 找到，发现
+1203,fine,"adj.美好的, 可接受的"
+1204,finger,n. 手指
+1205,finish,v. 完成
+1206,fire,n. 火 v. 解雇
+1207,fireman*,n. 消防员
+1208,firework*,n. 烟花
+1209,first,ord. 第一
+1210,fish,n. 鱼，鱼肉 v. 钓鱼
+1211,fisherman,n. 渔民，钓鱼的人
+1212,fit,"adj.健康的,合适的 v.适合"
+1213,fix,v. 修理
+1214,flag,n. 旗子，旗帜
+1215,flat,n. 公寓
+1216,flood*,n. 洪水
+1217,floor,n. 地板
+1218,flower,n. 花朵
+1219,flu*,n. 流感
+1220,fly,v. 飞
+1221,focus*,v. 聚焦
+1222,fog*,n. 雾
+1223,folk*,adj. 传统的，民间的
+1224,follow,v. 跟随
+1225,food,n. 食物
+1226,fool*,adj./n. 傻瓜 v. 愚弄
+1227,foot,n. 脚
+1228,football,n. 足球
+1229,for,prep. 为了
+1230,gate,n. 大门
+1231,general,adj. 大概的
+1232,gentleman,n. 先生，绅士
+1233,geography,n. 地理
+1234,German,"n.德国人,德语 adj.德国的"
+1235,Germany,n. 德国
+1236,get,v. 收到，获得，达到
+1237,gift,n. 礼物，天赋
+1238,giraffe,n. 长颈鹿
+1239,girl,n. 女孩
+1240,give,v. 给
+1241,glad,adj. 高兴的
+1242,glass,n. 玻璃，玻璃杯
+1243,glove,n. 手套
+1244,glue,n. 胶水
+1245,go,v. 去
+1246,goal,n. 目标
+1247,god*,n. 上帝
+1248,gold,n. 金  adj. 金色的
+1249,good,adj. 好的
+1250,goodbye,int. 再见
+1251,government,n. 政府
+1252,grade,"n. 年级  v. 分级, 评分"
+1253,gradually,adv. 逐渐地
+1254,graduate*,v. 毕业
+1255,grammar,n. 语法
+1256,granddaughter,n. 孙女，外孙女
+1257,grandfather,n. 祖父，外祖父
+1258,grandma,n. 祖母，外祖母
+1259,grandmother,n. 祖母，外祖母
+1260,happy,adj. 开心的
+1261,hard,adj. 难的
+1262,hardly,adv. 几乎不
+1263,harm*,v. /n. 伤害
+1264,harmful,adj. 有害的
+1265,hat,n. 帽子
+1266,hate,v. 讨厌
+1267,have,v. 有
+1268,he,pron. 他
+1269,head,n. 头，脑袋
+1270,headache,n. 头痛
+1271,health,n. 健康
+1272,healthy,adj. 健康的
+1273,hear,v. 听，听见
+1274,heart,n. 心
+1275,heat,v. 加热  n. 热
+1276,heavy,adj. 重的
+1277,height,n. 高度
+1278,hello,int. 你好
+1279,help,v./n. 帮助
+1280,helpful,adj. 有帮助的
+1281,hen,n. 母鸡
+1282,her,det. 她的
+1283,here,adv. 在这里
+1284,hero,n. 英雄
+1285,hers,pron. 她的(物品)
+1286,herself,pron. 她自己
+1287,hi,int. 你好
+1288,hide,v. 躲藏
+1289,high,adj. 高的
+1290,huge,adj. 巨大的
+1291,human,n. 人类
+1292,humorous,adj. 幽默的
+1293,humour*,n. 幽默(AmE humor)
+1294,hungry,adj. 饿的
+1295,hunt*,v. 打猎
+1296,hurry,v. /n. 赶快，匆忙
+1297,hurt,v.受伤n.伤adj.受伤的
+1298,husband,n. 丈夫
+1299,I,pron. 我
+1300,ice,n. 冰
+1301,ice cream,n. 冰淇淋
+1302,idea,n. 主意，想法
+1303,if,conj. 如果
+1304,ill,adj. 生病的
+1305,illness,n. 病
+1306,imagine,v. 想象
+1307,immediate,adj. 立即的
+1308,important,adj. 重要的
+1309,impossible,adj. 不可能的
+1310,improve,v. 提高
+1311,in,prep. 在...里面
+1312,include,v. 包括
+1313,increase,v. 增长
+1314,India,n. 印度
+1315,Indian,n. 印度人 adj. 印度的
+1316,industry,n. 工业
+1317,infer,v. 推断
+1318,influence,n. 影响
+1319,information,n. 信息
+1320,joke,n. 玩笑  v. 开玩笑
+1321,journey,n. 旅程
+1322,joy*,n. 快乐，喜悦
+1323,judge,v. 判断  n. 法官
+1324,juice,n. 果汁
+1325,jump,v. 跳
+1326,junior*,adj. 初级的 n. 青少年
+1327,just,adv. 仅仅，正好
+1328,keep,v. 保持
+1329,key,n. 钥匙 adj. 关键的
+1330,keyboard,n. 键盘
+1331,kick,v. 踢
+1332,kid,n. 小孩
+1333,kill,v. 杀死，消灭
+1334,kilo,n. 千克
+1335,kilogram,n. 千克
+1336,kilometre,n.千米(AmE kilometer)
+1337,kind,n. 种类 adj. 善良的
+1338,king,n. 国王
+1339,kiss,v. 亲，亲吻
+1340,kitchen,n. 厨房
+1341,kite,n. 风筝
+1342,knee,n. 膝盖
+1343,knife,n. 餐刀
+1344,knock,v. 敲
+1345,know,v. 知道，认识
+1346,knowledge,n. 知识
+1347,kung fu*,n. 功夫
+1348,lab,n. 实验室
+1349,letter,n. 信件
+1350,level,n. 等级
+1351,library,n. 图书馆
+1352,lie,v. 躺；撒谎
+1353,life,n. 生活
+1354,lift,v. 举起，抬起
+1355,light,n. 光
+1356,lightning*,n. 闪电 adj. 闪电般的 
+1357,like,v. 喜欢  prep. 像
+1358,likely*,"adj. 可能的, 有希望的"
+1359,limit,v. /n. 限制
+1360,line,n. 线
+1361,lion,n. 狮子
+1362,list,v. 列举
+1363,listen,v. 听
+1364,literature*,n. 文学
+1365,litter,n. 垃圾 v. 扔垃圾
+1366,little,adj. 小的
+1367,live,v. 生活，居住
+1368,lively,adj. 精力充沛的
+1369,local,adj. 当地的
+1370,lock,v. 锁
+1371,London,n. 伦敦
+1372,lonely,adj. 孤独的
+1373,long,adj. 长的
+1374,look,v. 看
+1375,lose,v. 失去
+1376,loss*,n. 缺少，损失
+1377,lost*,adj. 迷路的，丢失的
+1378,lot,"det. /pron. 许多, 大量"
+1379,matter,n. 事情  v. 要紧
+1380,may,modal 可以，也许
+1381,maybe,adv. 也许
+1382,me,pron. 我
+1383,meal,n. 一顿饭
+1384,mean,v. 意思是，意味着
+1385,meaning,n. 意义
+1386,meat,n. 肉
+1387,medal*,n. 奖牌
+1388,medical,adj. 医学的
+1389,medicine,n. 药
+1390,medium*,"n.媒体,媒介(pl.media)"
+1391,meet,v. 见面
+1392,meeting,n. 会议
+1393,member,n. 成员
+1394,memory,n. 记忆
+1395,mention,v. 提到，涉及
+1396,menu,n. 菜单
+1397,mess,n. 混乱
+1398,message,n. (书面/口头的)信息
+1399,method,n. 方法
+1400,metre,n. 米(AmE meter)
+1401,middle,n. 中间
+1402,might,modal 可以，也许
+1403,mile,n. 英里
+1404,milk,n. 牛奶
+1405,mind,n. 大脑  v. 介意
+1406,mine,pron. 我的(物品)
+1407,minute,n. 分钟
+1408,mirror*,n. 镜子
+1409,mutton*,n. 羊肉
+1410,my,det. 我的
+1411,myself,pron. 我自己
+1412,name,n. 名字 v. 命名
+1413,narrow*,adj. 狭窄的
+1414,nation*,n. 国家，民族
+1415,national,adj. 国家的
+1416,natural,adj. 自然的
+1417,nature,n. 大自然，本质
+1418,naughty,adj. 淘气的
+1419,near,prep. 在......旁边
+1420,nearly,adv. 几乎
+1421,necessary,adj. 必要的
+1422,neck,n. 脖子
+1423,need,modal 需要
+1424,neighbour,n.邻居(AmE neighbor)
+1425,neither,pron. (两者)都不
+1426,nervous,adj. 紧张的
+1427,never,adv. 从不
+1428,new,adj. 新的
+1429,news,n. 新闻
+1430,newspaper,n. 报纸
+1431,next,adj. 下一个的
+1432,nice,adj. 美好的
+1433,night,n. 夜晚
+1434,no,det. / int. 没有
+1435,nobody,pron. 没有人
+1436,nod,v. 点头
+1437,noise,n. 噪音
+1438,noisy,adj. 吵闹的
+1439,Olympics,n. 奥林匹克
+1440,on,prep. 在......上面
+1441,once,conj.一...就... adv.一次
+1442,onion*,n. 洋葱
+1443,online,adj. 在线的
+1444,only,adv. 只有，仅仅
+1445,open,v. 打开
+1446,opera*,n. 歌剧
+1447,operate,v. 操作，执行
+1448,opinion,n. 观点
+1449,opportunity,n. 机会
+1450,opposite,adj. 相反的，对面的
+1451,or,conj. 或者
+1452,orange,n. 橙色；橘子
+1453,order,n. 顺序  v. 命令
+1454,organize,v. 组织
+1455,other,adj. 其他的
+1456,our,det. 我们的
+1457,ours,pron. 我们的(物品)
+1458,ourselves,pron. 我们自己
+1459,out,adv. 出来
+1460,outside,adv. 在外面
+1461,oven*,n. 烤箱，烤炉
+1462,over,prep. 在...上方; 超过
+1463,own,adj. 自己的
+1464,p.m.*,n. 下午
+1465,Pacific,n. 太平洋
+1466,pack*,v. 收拾(行李)，包装
+1467,packet*,n. 小包裹
+1468,page,n. 页
+1469,percent*,n. 百分比
+1470,perfect,adj. 完美的
+1471,perform,v. 表演
+1472,perhaps,adv. 也许
+1473,period,n. 一段时间
+1474,person,n. 人
+1475,personal,adj. 私人的，个人的
+1476,pet,n. 宠物
+1477,phone,n. 电话
+1478,photo,n. 照片
+1479,photograph*,n. 照片
+1480,physical education,n. 体育
+1481,physics,n. 物理
+1482,piano*,n. 钢琴
+1483,pick,v. 选择
+1484,picnic,n. 野餐
+1485,picture,n. 图片
+1486,pie,n. 派
+1487,piece,n. 片，块，段
+1488,pig,n. 猪
+1489,pill*,n. 药丸，药片
+1490,pilot,n. 飞行员
+1491,ping-pong*,n. 乒乓球
+1492,pink,n. 粉色
+1493,pioneer,n. 先锋者，开拓者
+1494,pity,n. 遗憾
+1495,pizza*,n. 匹萨
+1496,place,n. 地方 v. 放置
+1497,plan,n. /v. 计划
+1498,plane,n. 飞机
+1499,post,v. 邮寄  n. 邮政
+1500,postcard,n. 明信片
+1501,postman,n. 邮递员
+1502,pot*,n. 锅，罐，壶，瓶
+1503,potato,n. 土豆，马铃薯
+1504,pound,n. 英镑
+1505,pour*,v. 倾倒，倾泻
+1506,power,n. 力量，权力
+1507,practice,n. 练习
+1508,praise,v. /n. 赞扬，赞赏
+1509,predict,v. 预测
+1510,prefer,v. 更喜欢
+1511,prepare,v. 准备
+1512,present,n.礼物 v.出席 adj.在场的
+1513,president,n. 总统
+1514,press*,"v.按压 n.报纸,出版社"
+1515,pressure*,n. 压力
+1516,pretty,adj. 漂亮的 adv. 相当
+1517,prevent,v. 阻止
+1518,price,n. 价格
+1519,pride,n. 自豪，骄傲
+1520,primary,adj. 初级的，主要的
+1521,prince*,n. 王子
+1522,princess*,n. 公主
+1523,print,v. 打印
+1524,private,adj. 私人的，亲密的
+1525,prize,n. 奖励，奖品
+1526,probably,adv. 可能
+1527,problem,n. 难题
+1528,process,n. 过程 v. 加工
+1529,race,n. 比赛
+1530,radio,n. 广播
+1531,railway,n. 铁路
+1532,rain,n. 雨 v. 下雨
+1533,rainbow*,n. 彩虹
+1534,rainy,adj. 多雨的
+1535,raise,v. 提升，举起
+1536,rapid,adj. 迅速的
+1537,rather*,adv. 相当地，反而
+1538,reach,v. 到达
+1539,read,v. 阅读
+1540,ready,adj. 做好准备的
+1541,real,adj. 真实的
+1542,realise,v. 意识到
+1543,really,adv. 真正地
+1544,reason,n. 原因 v. 推理
+1545,receive,v. 到达，拿到
+1546,recent*,adj. 最近的
+1547,recently,adv. 最近
+1548,recognise,v. 认出
+1549,recommend*,v. 推荐，劝告
+1550,record,n. /v. 记录
+1551,recycle*,v. 循环
+1552,red,n. 红色 adj. 红色的
+1553,reduce*,v. 减少
+1554,refer,v. 指出，提到，涉及
+1555,refrigerator,n. 冰箱
+1556,refuse,v. 拒绝
+1557,regret,v. 后悔
+1558,relate,v. 与...有关
+1559,rocket*,n. 火箭
+1560,role,n. 角色
+1561,room,n. 房间
+1562,rope,n. 绳子
+1563,rose,n. 玫瑰 v. rise过去式
+1564,round,prep.环绕  adj.圆形的
+1565,row,n. 一列
+1566,rubbish,n. 垃圾
+1567,rule,n. 规则 v. 管理
+1568,ruler,n. 尺子
+1569,run,v. 跑，经营
+1570,rush,v. 冲，迅速移动
+1571,Russia,n. 俄罗斯
+1572,Russian,"n.俄罗斯人,俄语 adj.俄罗斯的"
+1573,sad,adj. 悲伤的
+1574,safe,adj. 安全的
+1575,safely,adv. 安全地
+1576,safety,n. 安全
+1577,salad,n. 沙拉
+1578,sale,v. 卖
+1579,salt,n. 盐
+1580,same,adj. 相同的
+1581,sand,n. 沙子
+1582,sandwich,n. 三明治
+1583,satisfy,v. 使满足
+1584,save,"v. 拯救, 救助, 省(钱)"
+1585,say,v. 说
+1586,scare*,v. 使害怕
+1587,scarf,n. 围巾
+1588,school,n. 学校
+1589,share,v. 分享
+1590,shark*,n. 鲨鱼
+1591,she,pron. 她
+1592,sheep,n. 羊，绵羊
+1593,shelf*,n. 架子(pl. shelves)
+1594,shine,v. 照耀，发光
+1595,ship,n. 小船
+1596,shirt,n. 衬衫
+1597,shock*,n. 震惊 v. 使震惊
+1598,shoe,n. 鞋
+1599,shoot*,v. 射击
+1600,shop,n. 商店
+1601,short,adj. 短的，矮的
+1602,shorts,n. 短裤
+1603,should,modal 应该
+1604,shoulder,n. 肩膀
+1605,shout,v. 大喊
+1606,show,"n. 演出 v. 展示, 表明"
+1607,shower,n. 淋浴，阵雨
+1608,shut,v. 关闭
+1609,shy,adj. 害羞的
+1610,sick,adj. 生病的
+1611,side,n. 一侧
+1612,sight,n. 视力
+1613,sign,"n. 迹象, 标志 v. 签名"
+1614,silence,n. 安静，寂静
+1615,silent,adj. 安静的，寂静的
+1616,silk,n. 丝绸
+1617,silly,adj. 傻的
+1618,silver,n. 银色
+1619,social,adj. 社会的
+1620,socialism*,n. 社会主义
+1621,society,n. 社会
+1622,sock,n. 袜子
+1623,sofa,n. 沙发
+1624,soft,adj. 柔软的
+1625,soil*,n. 土壤
+1626,soldier*,n. 士兵
+1627,solve,v. 解决
+1628,some,det. / pron. 一些
+1629,somebody,pron. 某些人
+1630,someone,pron. 某些人
+1631,something,pron. 某些事
+1632,sometimes,adv. 有时
+1633,somewhere,adv. 在某地
+1634,son,n. 儿子
+1635,song,n. 歌曲
+1636,soon,adv. 不久
+1637,sore*,adj. 疼痛的 n. 痛处
+1638,sorry,int.对不起 adj.难过的
+1639,sound,n. 声音 v. 听起来
+1640,soup,n. 汤
+1641,south,n. 南方，南部
+1642,southern,adj. 南方的
+1643,space,n. 空间，太空
+1644,spare,v. 节省 adj. 空闲的
+1645,speak,v. 说
+1646,speaker,n. 发言者
+1647,special,adj. 特别的
+1648,speech,n. 演讲
+1649,straight,adj. 笔直的
+1650,strange,adj. 陌生的
+1651,stranger,n. 陌生人
+1652,strawberry,n. 草莓
+1653,street,n. 街道
+1654,stress,"n. 压力, 紧张 v. 强调"
+1655,strict,adj. 严厉的
+1656,strong,adj. 强壮的
+1657,student,n. 学生
+1658,study,v. /n.  学习，研究
+1659,stupid,adj. 蠢的
+1660,style,n. 风格
+1661,subject,n. 主题 adj. 主观的
+1662,succeed,v. 成功
+1663,success,n. 成功
+1664,successful,adj. 成功的
+1665,such,"det./pron.这样的,类似的"
+1666,sudden,adj. 突然的
+1667,suffer*,v. 遭受
+1668,sugar,n. 糖
+1669,suggest,v. 建议
+1670,suggestion,n. 建议
+1671,suit*,"v. 适合, 满足 n. 套装"
+1672,summer,n. 夏天
+1673,sun,n. 太阳
+1674,sunny,adj. 晴朗的
+1675,supermarket,n. 超市
+1676,supper,n. 晚饭
+1677,supply,v. 提供
+1678,support,v. 支持
+1679,teen,n. 青少年(时期)
+1680,teenage*,adj. 青少年的
+1681,teenager,n. 青少年人
+1682,telephone,n. 电话
+1683,television,n. 电视
+1684,tell,v. 告诉，辨别
+1685,temperature,n. 温度
+1686,tennis,n. 网球
+1687,tent*,n. 帐篷
+1688,term,n. 学期
+1689,terrible,adj. 糟糕的
+1690,test,n. 测试
+1691,text,n. 文本
+1692,than,conj. /prep. 比
+1693,thank,v. 感谢
+1694,that,det. /pron. 那个
+1695,the,art.(前文提到的)那个
+1696,theatre,n. 戏剧，剧院
+1697,their,det. 他们的
+1698,theirs*,pron. 他们的(物品)
+1699,them,pron. 他们
+1700,themselves,pron. 他们自己
+1701,then,adv. 当时，那时
+1702,there,adv. 在那里
+1703,therefore*,adv. 因此
+1704,these,det. / pron. 这些
+1705,they,pron. 他们
+1706,thick,adj. 厚的
+1707,thin,adj. 瘦的
+1708,thing,n. 事情，事物
+1709,toothache,n. 牙疼
+1710,top,n. 顶端
+1711,topic,n. 标题，话题
+1712,total,adj. 共计的
+1713,touch,v. 触摸
+1714,tour,n. 旅行，巡回比赛
+1715,tourist,n. 游客
+1716,toward,"prep.朝, 面对; 趋向于"
+1717,tower,n. 塔
+1718,town,n. 小镇
+1719,toy,n. 玩具
+1720,trade,v. 交易，贸易
+1721,tradition*,n. 传统
+1722,traditional,adj. 传统的
+1723,traffic,n. 交通
+1724,train,n. 火车 v. 训练
+1725,training,n. 训练
+1726,translate,v. 翻译
+1727,travel,v. 旅游
+1728,treasure,n. 宝藏
+1729,treat,"v. 招待, 对待  n. 款待"
+1730,tree,n. 树
+1731,trip,n. 短途旅行，郊游
+1732,trouble,n. 麻烦，困难
+1733,trousers,n. 裤子
+1734,truck,n. 卡车
+1735,true,adj. 正确的，真实的
+1736,trust,n. /v. 信任，相信
+1737,truth,n. 事实，真相
+1738,try,v. 尝试
+1739,valuable,adj. 有价值的
+1740,value,n. 价值
+1741,various,adj. 各种各样的
+1742,vegetable,n. 蔬菜
+1743,very,adv. 非常
+1744,victory,n. 胜利
+1745,video,n. 录像，录像带
+1746,view*,n. 观点 v. 看
+1747,village,n. 村庄
+1748,violin,n. 小提琴
+1749,virus*,n. 病毒
+1750,visit,v. 参观，访问
+1751,visitor,n. 参观者，游客
+1752,voice,n. 嗓音 v. 表达
+1753,volleyball,n. 排球
+1754,voluntary*,adj. 志愿的，义务的
+1755,volunteer,n. 志愿者
+1756,vote*,v. 投票 n. 选票
+1757,wait,v. 等待
+1758,wake,v. 醒来，起身
+1759,walk,v. 行走
+1760,wall,n. 墙
+1761,wallet,n. 钱包
+1762,want,v. 想要
+1763,war,n. 战争
+1764,warm,adj. 温暖的
+1765,warn,v. 警告
+1766,wash,v. 洗
+1767,waste,v. 浪费
+1768,watch,n. 手表 v. 观看
+1769,white,n. 白色 adj. 白色的
+1770,who,pron. 谁
+1771,whole,adj. 全部的
+1772,whom,pron. 谁
+1773,whose,det. /pron. 谁的
+1774,why,adv. 为什么
+1775,wide,adj. 宽的
+1776,wife,n. 妻子
+1777,wild,adj. 野生的
+1778,will,modal 将要，将会
+1779,win,v. 胜利
+1780,wind,n. 风
+1781,window,n. 窗户
+1782,windy,adj. 刮风的
+1783,wing,n. 翅膀
+1784,winner,n. 胜利者
+1785,winter,n. 冬天
+1786,wise,adj. 明智的，聪明的
+1787,wish,v. 希望，想要，盼望
+1788,with,prep. 和，随着，用
+1789,within*,prep. 在...之内
+1790,without,prep. 没有
+1791,wolf*,n. 狼(pl. wolves)
+1792,woman,n. 女人
+1793,wonder,"n.惊讶,奇迹 v.想知道"
+1794,wonderful,adj. 精彩的，绝妙的
+1795,wood,n. 木头
+1796,word,n. 单词
+1797,work,v. 工作
+1798,worker,n. 工人
+1799,five,num. 5
+1800,six,num. 6
+1801,seven,num. 7
+1802,eight,num. 8
+1803,nine,num. 9
+1804,ten,num. 10
+1805,eleven,num. 11
+1806,twelve,num. 12
+1807,thirteen,num. 13
+1808,fourteen,num. 14
+1809,fifteen,num. 15
+1810,sixteen,num. 16
+1811,seventeen,num. 17
+1812,eighteen,num. 18
+1813,nineteen,num. 19
+1814,twenty,num. 20
+1815,thirty,num. 30
+1816,forty,num. 40
+1817,fifty,num. 50
+1818,sixty,num. 60
+1819,seventy,num. 70
+1820,eighty,num. 80
+1821,ninety,num. 90
+1822,hundred,num. 百
+1823,thousand,num. 千
+1824,million,num. 百万
+1825,billion,num. 十亿
+1826,January,n. 一月
+1827,February,n. 二月
+1828,March,n. 三月
+1829,seventeenth*,ord. 第17
+1830,eighteenth*,ord. 第18
+1831,nineteenth*,ord. 第19
+1832,twentieth*,ord. 第20
+1833,thirtieth*,ord. 第30
+1834,fortieth*,ord. 第40
+1835,fiftieth*,ord. 第50
+1836,sixtieth*,ord. 第60
+1837,seventieth*,ord. 第70
+1838,eightieth*,ord. 第80
+1839,ninetieth*,ord. 第90
+1840,hundredth*,ord. 第100
+'''
